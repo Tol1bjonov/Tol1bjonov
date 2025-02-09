@@ -5,12 +5,11 @@ I'm a passionate **Electrical and Computer Engineering** student and a tech enth
 ---
 
 ## 🌟 About Me
-- 🎓 **4th-year student** at AJOU University, Tashkent branch.
+- 🎓 **2nd-year student** at AJOU University, Tashkent branch.
 - 💻 **Tech Stack:** Frontend, Backend, and AI development.
 - 🚀 **Aspiring AI Engineer** & building a **messenger like Telegram**.
 - 📖 **Learning:** Advanced Python, Data Structures, Signals & Systems.
-- 🏆 **GPA:** 4.0833 (1st sem) | 4.3 (2nd sem).
-- 💡 **Fun Fact:** I believe in continuous learning and take inspiration from historical Muslim scholars like Al-Biruni and Al-Farghani.
+- 💡 **Fun Fact:** I believe **"Education is the key to success"** and always strive to learn something new every day! 🚀
 
 ---
 
