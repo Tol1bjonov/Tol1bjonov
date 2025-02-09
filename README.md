@@ -11,7 +11,7 @@ I'm a passionate **Electrical and Computer Engineering** student with a strong i
 - **Other:** Git, GitHub, Linux, Docker
 
 ### 📈 GitHub Stats
-![Yusufjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufjonTolibjonov&show_icons=true&theme=dark)
+![Yusufjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tol1bjonov&show_icons=true&theme=dark)
 
 ### 🚀 Future Goals
 - 💡 Build a **messenger app** like Telegram
@@ -20,7 +20,7 @@ I'm a passionate **Electrical and Computer Engineering** student with a strong i
 - 🏆 Become a **full-stack developer** before graduating
 
 ### 🌍 Connect With Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tol7bjonov_05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 
