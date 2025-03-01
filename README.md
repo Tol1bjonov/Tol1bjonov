@@ -14,7 +14,7 @@ I'm a passionate **Electrical and Computer Engineering** student and a tech enth
 ---
 
 ## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Tol1bjonov_05) [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Tol7bjonov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusufjon.tolibjonov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufjon-tolibjonov) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yusufjon.tolibjonov) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufjontolibjonov3@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Tol7bjonov_05) [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Tol7bjonov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusufjon.tolibjonov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufjon-tolibjonov) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yusufjon.tolibjonov) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufjontolibjonov3@gmail.com)
 
 ---
 
