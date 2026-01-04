@@ -18,7 +18,7 @@ I'm a **Data Analytics & Engineering-oriented** student with a strong background
 ## 🛠 Technical Skills
 
 ### 📊 Data & Analytics
-- **SQL:** SELECT, JOINs, GROUP BY, subqueries, set operations (INTERSECT)
+- **SQL** 
 - **Databases:** relational modeling, constraints, normalization
 - **Python:** data processing, analysis fundamentals
 - **Analytical thinking:** translating business questions into queries
@@ -64,7 +64,7 @@ This transition strengthened my understanding of both **engineering discipline**
 ---
 
 ## 🌱 Learning Roadmap
-- Python for Data Analysis (pandas, NumPy basics)
+- Python for Data Analysis (pandas, NumPy)
 - SQL performance & query optimization
 - Data analytics case studies
 - ETL and data pipelines (intro level)
@@ -73,7 +73,7 @@ This transition strengthened my understanding of both **engineering discipline**
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufjon-tolibjonov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Tol7bjonov_05)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Tol7bjonov)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufjontolibjonov3@gmail.com)
 
 ---
