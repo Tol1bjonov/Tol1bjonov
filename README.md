@@ -1,7 +1,6 @@
 ## Hi, I'm Yusufjon Tolibjonov 👋
 
 I'm a **Data Analytics & Engineering-oriented** student with a strong background in SQL, databases, and analytical problem-solving.  
-Currently preparing for the **EPAM Data Analytics Engineering program**.
 
 ---
 
