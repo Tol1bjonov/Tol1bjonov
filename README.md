@@ -2,9 +2,6 @@
 
 I'm a **Data Analytics & Engineering-oriented** student with a strong background in SQL, databases, and analytical problem-solving.  
 
----
-
-## 🎯 Profile Snapshot
 - 🎓 **3rd-year Electrical & Computer Engineering student** (AJOU University, Tashkent)
 - 📊 Strong focus on **Data Analytics, SQL, and databases**
 - 🧠 Analytical mindset with engineering fundamentals
